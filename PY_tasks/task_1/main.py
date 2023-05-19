@@ -73,3 +73,13 @@ iter **= 5
 # print(a == b)
 # a = 1 < 3 < 5 < 10
 # print(a)
+
+username = input("Schreibe dich Name: ")
+if username == "Aleks":
+    print("Naja! Das ist Aleks!")
+elif username == "Alex":
+    print("Das ist Aleks auch!")
+elif username == "Anya":
+    print("Anya ist Meine Frau!")
+else:
+    print("Hello, ", username)
