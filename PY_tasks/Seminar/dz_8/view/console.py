@@ -37,7 +37,7 @@ def input_contact(message: str) -> dict[str, str]:
     phone = input(new_contact[1])
     comment = input(new_contact[2])
     return {'name': name, 'phone': phone, 'comment': comment}
-    print(return)
+
 
 def input_return(message: str) -> str:
     return input(message)
@@ -51,3 +51,12 @@ def input_change_contact(name, new_number):
                 f.write(f'{name}: {new_number}\n')
             else:
                 f.write(line)
+
+def delete_contact(name):
+    with open("phones.txt", "r") as f:
+        lines = f.readlines()
+    with open("phones.txt", "w") as f:
+        for line in lines:
+            if name not in line:
+                f.write(line)
+    print(f"Kontakt  {name} gelöscht")

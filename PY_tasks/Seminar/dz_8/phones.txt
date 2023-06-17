@@ -1,3 +1,6 @@
 1:Irina Hubert:+49895664184:Shopkeeper
 2:Aleksandr Belyi:+49891562648:Specialist
 3:Aleksei Stroganov:+498978945612:Shopkeeper
+4:Astrid Wagner:+4989234576:Managerin
+5:Mareike Neugauf:+4989666666:Specialist P&C
+6:Vil Gareev:+498978456144:DH Managerin
