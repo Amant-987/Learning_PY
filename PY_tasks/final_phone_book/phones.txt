@@ -1,0 +1,44 @@
+{
+    "1": {
+        "name": "Irina Hubert",
+        "phone": "+49895664184",
+        "comment": "Shopkeeper",
+        "id": 1
+    },
+    "2": {
+        "name": "Aleksandr Belyi",
+        "phone": "+49891562648",
+        "comment": "Specialist",
+        "id": 2
+    },
+    "3": {
+        "name": "Aleksei Stroganov",
+        "phone": "+498978945612",
+        "comment": "Shopkeeper",
+        "id": 3
+    },
+    "4": {
+        "name": "Astrid Wagner",
+        "phone": "+4989234576",
+        "comment": "Managerin",
+        "id": 4
+    },
+    "5": {
+        "name": "Mareike Neugauf",
+        "phone": "+4989666666",
+        "comment": "Specialist P&C",
+        "id": 5
+    },
+    "6": {
+        "name": "Vil Gareev",
+        "phone": "+498978456144",
+        "comment": "DH Manager",
+        "id": 6
+    },
+    "7": {
+        "name": "Anna Belaya",
+        "phone": "+49152648597",
+        "comment": "meine Frau",
+        "id": 7
+    }
+}
